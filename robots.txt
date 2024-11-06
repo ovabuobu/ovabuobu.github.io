@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ovabuobu.github.io/BKI/sitemap_index.txt
+Sitemap: https://ovabuobu.github.io/FCL/sitemap_index.txt
+Sitemap: https://ovabuobu.github.io/OQF/sitemap_index.txt
+Sitemap: https://ovabuobu.github.io/hpd/sitemap_index.txt
